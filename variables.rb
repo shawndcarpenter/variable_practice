@@ -14,3 +14,5 @@ puts "Your new account balance is #{account_balance - item_price}."
 puts "Your pet, #{pet}, is #{pet_age} years old."
 if at_home = true then puts "Welcome home, " + name + "."
 end
+
+# I realize that the last statement is a little more than a puts statement; I was messing around with Ruby and decided I might as well add what I tried onto the end.
